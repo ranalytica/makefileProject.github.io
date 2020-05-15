@@ -16,7 +16,7 @@ README.md: guessinggame.sh
 	echo "  \n" >> README.md
 	echo "### About the Makefile" >> README.md
 	echo "Makefile is created on: " $$(date) >> README.md
-	echo "There are" $$(cat guessinggame.sh | wc -l) "lines of code in guessinggame.sh">> README.md
+	echo "There are" $$(cat guessinggame.sh | wc -l) "lines of code in guessinggame.sh" >> README.md
 	echo "  \n" >> README.md
 
 clean:

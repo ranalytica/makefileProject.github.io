@@ -10,7 +10,7 @@ Create a program called guessinggame.sh that behaves as follows:
   
 
 ### About the Makefile
-Makefile is created on:  Thu 14 May 2020 10:44:44 PM CDT
+Makefile is created on:  Thu 14 May 2020 10:46:25 PM CDT
 There are 24 lines of code in guessinggame.sh
   
 
